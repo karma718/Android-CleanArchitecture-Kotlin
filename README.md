@@ -70,7 +70,8 @@ Here are some useful Gradle/adb commands for executing this example:
  
 ## Discussions
 Refer to the issues section: https://github.com/android10/Android-CleanArchitecture-Kotlin/issues
- 
+
+ ## Weldone!
 ## License
 
     Copyright 2024 Fernando Cejas
